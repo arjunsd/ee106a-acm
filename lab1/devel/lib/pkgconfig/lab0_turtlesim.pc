@@ -1,0 +1,8 @@
+prefix=/home/cc/ee106a/fa18/class/ee106a-acm/ros_workspaces/lab1/devel
+
+Name: lab0_turtlesim
+Description: Description of lab0_turtlesim
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/cc/ee106a/fa18/class/ee106a-acm/ros_workspaces/lab1/devel/lib 
+Requires: 
